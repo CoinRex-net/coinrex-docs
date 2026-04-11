@@ -1,12 +1,20 @@
-🗺️ CoinRex Roadmap
+# 🗺️ CoinRex Roadmap
 
 CoinRex is being built as a proof-based trust score platform for crypto projects, where users earn rewards by validating real opportunities.
 
 This roadmap reflects our actual development progress, current system, and future direction.
 
+## 🔥 Current Focus
+
+We are currently focused on:
+
+- Improving review system accuracy
+- Enhancing user experience (UX)
+- Fixing bugs and optimizing performance
+- Strengthening trust and anti-abuse systems
 ---
 
-🟢 Phase 1: Core Platform (COMPLETED)
+## 🟢 Phase 1: Core Platform (COMPLETED)
 
 This phase focuses on building the foundation of CoinRex with all core systems.
 
@@ -150,7 +158,7 @@ Moderation Systems
 
 ---
 
-🟡 Phase 2: Trust Engine Enhancement (ONGOING)
+## 🟡 Phase 2: Trust Engine Enhancement (ONGOING)
 
 Focus: Strengthen trust, scoring, and reward logic
 
@@ -166,7 +174,7 @@ Focus: Strengthen trust, scoring, and reward logic
 
 ---
 
-🔵 Phase 3: Engagement Layer (UPCOMING)
+## 🔵 Phase 3: Engagement Layer (UPCOMING)
 
 Focus: Increase activity and user retention
 
@@ -197,7 +205,7 @@ Focus: Increase activity and user retention
 
 ---
 
-🟣 Phase 4: Off-Chain Economy Expansion
+## 🟣 Phase 4: Off-Chain Economy Expansion
 
 Focus: Build a strong internal economy
 
@@ -219,7 +227,7 @@ Focus: Build a strong internal economy
 
 ---
 
-🔴 Phase 5: Security & Compliance Layer
+## 🔴 Phase 5: Security & Compliance Layer
 
 Focus: Prepare platform for real economic value
 
@@ -235,7 +243,7 @@ Focus: Prepare platform for real economic value
 
 ---
 
-⚫ Phase 6: On-Chain Transition ($REX Token)
+## ⚫ Phase 6: On-Chain Transition ($REX Token)
 
 Focus: Move to decentralized economy
 
