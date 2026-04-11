@@ -1,4 +1,11 @@
-🚀 CoinRex
+![Status](https://img.shields.io/badge/status-active-green)
+![Phase](https://img.shields.io/badge/phase-development-blue)
+
+![Focus](https://img.shields.io/badge/focus-trust--engine-orange)
+![Platform](https://img.shields.io/badge/platform-web3-purple)
+
+
+# 🚀 CoinRex
 
 CoinRex is a proof-based trust score platform for crypto projects.
 
@@ -6,7 +13,7 @@ It allows users to earn rewards (REX) by submitting verified reviews backed by r
 
 ---
 
-🧠 How CoinRex Works
+## 🧠 How CoinRex Works
 
 1. Users explore verified crypto projects
 2. Complete tasks (airdrop, holding, transactions)
@@ -16,7 +23,7 @@ It allows users to earn rewards (REX) by submitting verified reviews backed by r
 
 ---
 
-💰 Reward System
+## 💰 Reward System
 
 Rewards are not fixed — they depend on quality.
 
@@ -28,7 +35,7 @@ Higher quality reviews earn higher rewards.
 
 ---
 
-🛡️ Trust System
+## 🛡️ Trust System
 
 CoinRex ensures authenticity by requiring:
 
@@ -41,7 +48,7 @@ This reduces fake reviews and increases trust.
 
 ---
 
-👥 User Levels
+## 👥 User Levels
 
 - 🟢 Beginner
 - 🔵 Pro
@@ -51,7 +58,7 @@ Higher levels unlock better rewards, faster approvals, and increased trust weigh
 
 ---
 
-🔗 Platform Structure
+## 🔗 Platform Structure
 
 - CoinRex → Public platform
 - RexHub → User dashboard
@@ -60,7 +67,7 @@ Higher levels unlock better rewards, faster approvals, and increased trust weigh
 
 ---
 
-🗺️ Roadmap
+## 🗺️ Roadmap
 
 CoinRex will evolve into a full Web3 ecosystem:
 
@@ -69,20 +76,23 @@ CoinRex will evolve into a full Web3 ecosystem:
 - Community validation
 - Future $REX token (on-chain)
 
+
+See full roadmap here: [Roadmap](./roadmap.md)
+
 ---
 
-👑 Vision
+## 👑 Vision
 
 To become the most trusted platform for verifying crypto opportunities and rewarding real user contributions.
 
 ---
 
-🌐 Website
+## 🌐 Website
 
 Coming soon...
 
 ---
 
-📢 Status
+## 📢 Status
 
 🚧 Currently in development & testing phase
