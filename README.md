@@ -1,98 +1,93 @@
-![Status](https://img.shields.io/badge/status-active-green)
-![Phase](https://img.shields.io/badge/phase-development-blue)
+# CoinRex Docs
 
-![Focus](https://img.shields.io/badge/focus-trust--engine-orange)
-![Platform](https://img.shields.io/badge/platform-web3-purple)
+![Status](https://img.shields.io/badge/status-supporting--repo-blue)
+![Main Repo](https://img.shields.io/badge/main%20repo-coinrex--platform-green)
 
+This repository contains **supporting documentation, early concepts, roadmap notes, and reference material** for CoinRex.
 
-# 🚀 CoinRex
-
-CoinRex is a proof-based trust score platform for crypto projects.
-
-It allows users to earn rewards (REX) by submitting verified reviews backed by real proof such as wallet holdings, transaction hashes, and screenshots.
+> **Looking for the active application codebase?**  
+> Go here: **https://github.com/CoinRex-net/coinrex-platform**
 
 ---
 
-## 🧠 How CoinRex Works
+## Primary Repository
 
-1. Users explore verified crypto projects
-2. Complete tasks (airdrop, holding, transactions)
-3. Submit review with proof
-4. Admin verifies submissions
-5. Users earn REX based on review quality score
+The main and active CoinRex repository is:
 
----
+- **[CoinRex Platform](https://github.com/CoinRex-net/coinrex-platform)**
 
-## 💰 Reward System
+Use that repository for:
 
-Rewards are not fixed — they depend on quality.
-
-Formula:
-
-REX = (Score / 100) × Project Reward
-
-Higher quality reviews earn higher rewards.
+- application source code
+- current setup instructions
+- active development updates
+- platform architecture and security improvements
+- future releases and repository activity
 
 ---
 
-## 🛡️ Trust System
+## Purpose of `coinrex-docs`
 
-CoinRex ensures authenticity by requiring:
+This repository is best used as a **supporting/legacy documentation repository**.
 
-- Wallet address verification
-- Transaction proof (TX Hash)
-- Screenshot evidence
-- Admin validation
+It can hold:
 
-This reduces fake reviews and increases trust.
-
----
-
-## 👥 User Levels
-
-- 🟢 Beginner
-- 🔵 Pro
-- 🟣 Expert
-
-Higher levels unlock better rewards, faster approvals, and increased trust weight.
+- early project ideas
+- simplified overviews
+- roadmap notes
+- archived explanations
+- lightweight public-facing reference content
 
 ---
 
-## 🔗 Platform Structure
+## CoinRex at a Glance
 
-- CoinRex → Public platform
-- RexHub → User dashboard
-- DevHub → Developer panel
-- AdminHub → Moderation & control
+CoinRex is a platform focused on **crypto project reviews, proof-based trust workflows, moderation, and rewards**.
 
----
+Core ideas include:
 
-## 🗺️ Roadmap
-
-CoinRex will evolve into a full Web3 ecosystem:
-
-- Off-chain reward system (current)
-- Advanced trust scoring
-- Community validation
-- Future $REX token (on-chain)
-
-
-See full roadmap here: [Roadmap](./roadmap.md)
+- proof-backed review submissions
+- trust-oriented moderation
+- user progression and rewards
+- project/developer participation flows
+- stronger anti-abuse controls
 
 ---
 
-## 👑 Vision
+## Repository Relationship
 
-To become the most trusted platform for verifying crypto opportunities and rewarding real user contributions.
+### `coinrex-platform`
+The main product repository for:
+
+- codebase
+- current documentation
+- setup and maintenance
+- product evolution
+
+### `coinrex-docs`
+The supporting repository for:
+
+- concept notes
+- archived docs
+- simplified summaries
+- additional public explanations
 
 ---
 
-## 🌐 Website
+## Roadmap Reference
 
-Coming soon...
+You can still use this repo’s roadmap as supporting context:
+
+- [Roadmap](./roadmap.md)
+
+For the latest implementation-aligned documentation, always check the main repository first.
 
 ---
 
-## 📢 Status
+## Visitor Note
 
-🚧 Currently in development & testing phase
+If you arrived here expecting the main project code, start with:
+
+- **https://github.com/CoinRex-net/coinrex-platform**
+
+That is now the primary CoinRex repository.
